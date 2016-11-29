@@ -266,6 +266,7 @@
 				A1588B8A1BA2C07C00BC35DC /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

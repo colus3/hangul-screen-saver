@@ -8,6 +8,10 @@
 
 #import <ScreenSaver/ScreenSaver.h>
 
-@interface ScreenHangulClockView : ScreenSaverView
+@interface ScreenHangulClockView : ScreenSaverView{
+    int screen_width;
+    int screen_height;
+    int font_size;
+}
 
 @end
